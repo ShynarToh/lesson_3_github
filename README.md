@@ -2,4 +2,5 @@
 
 создали файл
 git remote связали с удаленным репоз
- Добавили  git remoye show original в браузеое
+
+Добавили  git remoye show original в браузеое
