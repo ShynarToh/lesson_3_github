@@ -1,6 +1,4 @@
 ﻿# lesson_3_github
 
 создали файл
-git remote связали с удаленным репоз
-
-Добавили  git remoye show original в браузеое
+git remote связали с удаленным репозиторий И удалила две строчки
